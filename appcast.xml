@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+   <channel>
+      <title>Orthera</title>
+      <link>https://www.bimover.ch/updates/orthera/appcast.xml</link>
+      <description>Orthera, Archicad add-on for Archicad 28 and 29 (macOS and Windows)</description>
+      <language>de</language>
+
+   </channel>
+</rss>
